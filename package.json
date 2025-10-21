@@ -1,0 +1,25 @@
+{
+  "name": "@jtundag/ttf-fonts",
+  "version": "1.0.0",
+  "description": "Collection of TTF fonts for web use",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtundag/ttf-fonts.git"
+  },
+  "keywords": [
+    "fonts",
+    "ttf",
+    "typography",
+    "webfonts"
+  ],
+  "author": "jtundag",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jtundag/ttf-fonts/issues"
+  },
+  "homepage": "https://github.com/jtundag/ttf-fonts#readme",
+  "files": [
+    "*.ttf"
+  ]
+}
