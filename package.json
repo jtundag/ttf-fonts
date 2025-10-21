@@ -1,7 +1,7 @@
 {
   "name": "@jtundag/ttf-fonts",
   "version": "1.0.0",
-  "description": "Collection of TTF fonts for web use",
+  "description": "Collection of Google Fonts in TTF format for CDN access",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -14,7 +14,7 @@
     "webfonts"
   ],
   "author": "jtundag",
-  "license": "MIT",
+  "license": "OFL-1.1",
   "bugs": {
     "url": "https://github.com/jtundag/ttf-fonts/issues"
   },

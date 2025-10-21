@@ -1,21 +1,42 @@
+# License Information
+
+This repository contains fonts from Google Fonts. All fonts are licensed under their original licenses.
+
+## Font Licenses
+
+All fonts in this collection are from Google Fonts and are licensed under the **SIL Open Font License (OFL) 1.1**.
+
+Copyright belongs to the respective font authors. For specific copyright information for each font, please visit:
+https://fonts.google.com/
+
+## SIL Open Font License (OFL) 1.1
+
+The OFL allows the fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works.
+
+For the full OFL license text, see: https://scripts.sil.org/OFL
+
+## Repository License
+
+The repository structure and documentation (excluding the font files themselves) are provided under the MIT License.
+
 MIT License
 
 Copyright (c) 2025 jtundag
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+of this documentation and associated files, to deal in the documentation
+without restriction, including without limitation the rights to use, copy,
+modify, merge, publish, distribute, sublicense, and/or sell copies of the
+documentation, and to permit persons to whom the documentation is furnished
+to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+copies or substantial portions of the documentation.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+THE DOCUMENTATION IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+OUT OF OR IN CONNECTION WITH THE DOCUMENTATION OR THE USE OR OTHER DEALINGS IN
+THE DOCUMENTATION.
